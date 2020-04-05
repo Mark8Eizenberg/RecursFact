@@ -1,0 +1,11 @@
+D:\KNU\Lab\Computer System\Course_Project\FactorParallel\FactorParallel\bin\Debug\netcoreapp3.1\FactorParallel.exe
+D:\KNU\Lab\Computer System\Course_Project\FactorParallel\FactorParallel\bin\Debug\netcoreapp3.1\FactorParallel.deps.json
+D:\KNU\Lab\Computer System\Course_Project\FactorParallel\FactorParallel\bin\Debug\netcoreapp3.1\FactorParallel.runtimeconfig.json
+D:\KNU\Lab\Computer System\Course_Project\FactorParallel\FactorParallel\bin\Debug\netcoreapp3.1\FactorParallel.runtimeconfig.dev.json
+D:\KNU\Lab\Computer System\Course_Project\FactorParallel\FactorParallel\bin\Debug\netcoreapp3.1\FactorParallel.dll
+D:\KNU\Lab\Computer System\Course_Project\FactorParallel\FactorParallel\bin\Debug\netcoreapp3.1\FactorParallel.pdb
+D:\KNU\Lab\Computer System\Course_Project\FactorParallel\FactorParallel\obj\Debug\netcoreapp3.1\FactorParallel.csprojAssemblyReference.cache
+D:\KNU\Lab\Computer System\Course_Project\FactorParallel\FactorParallel\obj\Debug\netcoreapp3.1\FactorParallel.AssemblyInfoInputs.cache
+D:\KNU\Lab\Computer System\Course_Project\FactorParallel\FactorParallel\obj\Debug\netcoreapp3.1\FactorParallel.AssemblyInfo.cs
+D:\KNU\Lab\Computer System\Course_Project\FactorParallel\FactorParallel\obj\Debug\netcoreapp3.1\FactorParallel.dll
+D:\KNU\Lab\Computer System\Course_Project\FactorParallel\FactorParallel\obj\Debug\netcoreapp3.1\FactorParallel.pdb
